@@ -114,8 +114,6 @@ UGC_ADS = [
 
 PRODUCT_ADS = [
 
-    "assets/product_ads/product_01.mp4",
-
     "assets/product_ads/product_02.mp4",
 
     "assets/product_ads/product_03.mp4",
